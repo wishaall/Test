@@ -1,5 +1,5 @@
 apa aja
 html
 css
-tailwind
+-tailwind
 react
