@@ -4,4 +4,5 @@ css
 -tailwind
 react
 pranala
-phyton
+vlog
+
